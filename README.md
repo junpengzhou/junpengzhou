@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋 Hi there
 > Talk is cheap! Show me you code!
 
 - 🔭 I’m currently working on RingCentral ltd.
@@ -9,6 +9,12 @@
 - 📫 How to reach me: jeepzhou11@163.com
 - 😄 Pronouns: Cool、Hardly
 - ⚡ Fun fact: The keyboard taps fast, but the game is very dish
+# ⭐ Github Stats
+<p align="center">
+  <a href="https://github.com/junpengzhou" class="rich-diff-level-one">
+    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=junpengzhou&title_color=333&text_color=777" alt="Junpengzhou's stats" />
+  </a>
+</p>
 
 # 🚀 Action
 <div align="center">
