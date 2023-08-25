@@ -1,4 +1,7 @@
 # 👋 Hi there
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
+
 > Talk is cheap! Show me you code!
 
 - 🔭 I’m currently working on RingCentral ltd.
@@ -9,6 +12,7 @@
 - 📫 How to reach me: jeepzhou11@163.com
 - 😄 Pronouns: Cool、Hardly
 - ⚡ Fun fact: The keyboard taps fast, but the game is very dish
+
 # ⭐ Github Stats
 <p align="center">
   <a href="https://github.com/junpengzhou" class="rich-diff-level-one">
