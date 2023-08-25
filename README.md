@@ -12,6 +12,39 @@
 - 📫 How to reach me: jeepzhou11@163.com
 - 😄 Pronouns: Cool、Hardly
 - ⚡ Fun fact: The keyboard taps fast, but the game is very dish
+# Technology Stack
+**Backend Languages and Frameworks**
+
+<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
+
+**Frontend Languages and Frameworks**
+<code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"></code>
+<code><img height="20" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" title="CSS"></code>
+<code><img height="20" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" alt="Javascript" title="Javascript"></code>
+
+**Tools and Environments**
+<code><img height="20" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" title="SQL"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" title="Redis"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" title="PyCharm"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
+<code><img height="20" src="Res/Icon/pytorch.png" alt="Pytorch" title="Pytorch"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+<br>
+
+**Design**
+
+<code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" title="PhotoShop"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere" title="Premiere"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After-Effect" title="After-Effect"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="Audition" title="Audition"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/3ds-max.png" alt="3D-Max" title="3D-Max"></code>
+<code><img height="20" src="https://img.icons8.com/fluency/48/000000/autodesk-inventor-2020.png" alt="Inventor" title="Inventor"></code>
 
 # ⭐ Github Stats
 <p align="center">
