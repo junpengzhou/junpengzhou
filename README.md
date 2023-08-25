@@ -13,7 +13,7 @@
 - 😄 Pronouns: Cool、Hardly
 - ⚡ Fun fact: The keyboard taps fast, but the game is very dish
 
-# Technology Stack
+# 💻 Technology Stack
 
 **Backend Languages and Frameworks**
 
